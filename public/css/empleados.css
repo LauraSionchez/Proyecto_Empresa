@@ -1,0 +1,52 @@
+#button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    border: none;
+    cursor: pointer;
+}
+#buttom:hover, .button:focus {
+    background-color: #3e8e41;
+}
+#button2 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+#buttom2:hover, .button:focus {
+    background-color: #3e8e41;
+}
+
+.table {
+
+   width: 70%;
+   border: 2;
+   border-color: #3e8e41;
+   border-collapse: 2;
+   border-spacing: 2;
+   padding: 2;
+   margin: auto;
+}
+
+.principal {
+
+   text-align: center;
+
+}
+
+#button3 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    border: none;
+    cursor: pointer;
+}
+#buttom3:hover, .button:focus {
+    background-color: #3e8e41;
+}
